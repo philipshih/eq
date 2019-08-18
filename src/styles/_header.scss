@@ -1,7 +1,3 @@
-.photo {
- z-index:1;
-}
-
 #particles-js {
   background: $main;
   display: block;
@@ -9,12 +5,18 @@
   width: 100%;
   min-height: 100vh;
   background-repeat: no-repeat;
+  background-image: url('https://avatars3.githubusercontent.com/u/29241652?s=460&v=4');
+  background-position: 50% 50%;
+  position:absolute;
   background-size: cover;
   background-attachment: fixed;
   .particles-js-canvas-el {
     width:100% !important;
     height:100vh !important;
   }
+canvas {
+    display: block;
+    vertical-align: bottom;
 }
 
 
