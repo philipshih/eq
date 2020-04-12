@@ -6,8 +6,8 @@ description: Philip Shih
 
 # User settings
 username: Philip Shih
-user_description: Hi! I'm Philip, a 4th year undergraduate student at UC Berkeley. I am particularly interested in radiology, radiation oncology, and deep learning in medical imaging and radiation therapy. I've previously conducted research on TIM-Barrel dynamics through the Klinman Group, and led an independent project on machine learning in fMRI imaging through the Undergraduate Lab at Berkeley.
-user_title: 20 | Research Assistant | Developer
+user_description:
+user_title: Student | Developer | Researcher
 email: philipshih@berkeley.edu
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
