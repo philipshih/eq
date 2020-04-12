@@ -1,5 +1,4 @@
 #projects {
-  position:fixed;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -12,6 +11,12 @@
   }
 }
 
+#wrapper {
+    margin-left:auto;
+    margin-right:auto;
+    width:960px;
+}
+ 
 .user-projects {
   margin: 20px auto;
   img {
