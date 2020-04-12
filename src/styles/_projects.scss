@@ -1,14 +1,12 @@
 #projects {
+  position:fixed;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
   width: 90%;
   max-width: 100%;
-  margin-left:auto;
-  margin-right:auto;
-  text-align: center;
-  padding: 30px;
+
   @media only screen and (min-width: $cut) {
     width: 80%;
   }
