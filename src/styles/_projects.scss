@@ -77,10 +77,8 @@
   img {
     @media only screen and (min-width: $cut) {
       float: left;
+      margin-right: 100px;
     }
-  display: grid
-  grid-auto-flow: column
-  grid-column-gap: 10px
   }
 }
 
