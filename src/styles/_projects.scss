@@ -44,6 +44,11 @@
     width: 68%;
     padding-left: 50%;
   }
+  img {
+    @media only screen and (min-width: $cut) {
+      float: right;
+    }
+  }
 }
 
 .contents-right {
