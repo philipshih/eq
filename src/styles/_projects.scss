@@ -30,9 +30,6 @@
     margin-left: 5px;
     float: right;
   }
-  display: grid
-  grid-auto-flow: column
-  grid-column-gap: 10px
 }
 
 
@@ -81,7 +78,9 @@
     @media only screen and (min-width: $cut) {
       float: left;
     }
-  margin-right: 20px
+  display: grid
+  grid-auto-flow: column
+  grid-column-gap: 10px
   }
 }
 
