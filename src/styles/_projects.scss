@@ -30,6 +30,9 @@
     margin-left: 5px;
     float: right;
   }
+  display: grid
+  grid-auto-flow: column
+  grid-column-gap: 10px
 }
 
 
